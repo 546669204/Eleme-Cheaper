@@ -1,0 +1,24 @@
+{
+  "name": "eleme-cheaper",
+  "version": "0.0.1",
+  "description": "自动筛选饿了么最便宜的商店 性价比最高的店铺",
+  "main": "eleme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/546669204/Eleme-Cheaper.git"
+  },
+  "author": "xiaoming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/546669204/Eleme-Cheaper/issues"
+  },
+  "homepage": "https://github.com/546669204/Eleme-Cheaper#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "ngeohash": "^0.6.0",
+    "request": "^2.83.0"
+  }
+}
